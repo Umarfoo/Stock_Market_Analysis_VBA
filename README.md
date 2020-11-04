@@ -3,11 +3,11 @@ Stock Market Data Analytics
 
 ## Background
 
-In this assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
+In this assignment, I used VBA scripting to analyze real stock market data.
 
 ## Instructions
 
-* Create a script that will loop through all the stocks for one year for each run and take the following information.
+* Created a script that loops through all the stocks for one year for each run and takes the following information.
 
   * The ticker symbol.
 
@@ -17,10 +17,10 @@ In this assignment you will use VBA scripting to analyze real stock market data.
 
   * The total stock volume of the stock.
 
-* You should also have conditional formatting that will highlight positive change in green and negative change in red.
+* Applied conditional formatting that highlights positive change in green and negative change in red.
 
 ### CHALLENGES
 
-1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
+1. The solution also returns the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
-2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
+2. Made the appropriate adjustments to the VBA script so that it to run on every worksheet, i.e., every year, just by running the VBA script once.
