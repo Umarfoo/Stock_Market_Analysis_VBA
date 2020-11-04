@@ -3,7 +3,7 @@ Stock Market Data Analytics
 
 ## Background
 
-In this assignment, I used VBA scripting to analyze real stock market data.
+In this project, I used VBA scripting to analyze real stock market data.
 
 ## Instructions
 
